@@ -125,7 +125,9 @@
     "file": "English - Stephen Sanchez - Until I Found You.mp3",
     "label": "English — Stephen Sanchez — Until I Found You",
     "ukuran": 1970732,
-    "durasi": 0
+    "durasi": 0,
+    "pin": true,
+    "updated": "2026-11-10"
   },
   {
     "file": "English - Westlife - I Wanna Grow Old with You.mp3",
